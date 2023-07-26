@@ -1,6 +1,6 @@
 ability_refresh: 60
-api_key_blue: BLUEADMIN123
-api_key_red: ADMIN123
+api_key_blue: ffx#$1
+api_key_red: ffx#$1
 app.contact.dns.domain: mycaldera.caldera
 app.contact.dns.socket: 0.0.0.0:8853
 app.contact.gist: API_KEY
@@ -13,7 +13,7 @@ app.contact.tunnel.ssh.host_key_file: REPLACE_WITH_KEY_FILE_PATH
 app.contact.tunnel.ssh.host_key_passphrase: REPLACE_WITH_KEY_FILE_PASSPHRASE
 app.contact.tunnel.ssh.socket: 0.0.0.0:8022
 app.contact.tunnel.ssh.user_name: sandcat
-app.contact.tunnel.ssh.user_password: s4ndc4t!
+app.contact.tunnel.ssh.user_password: ffx#$1
 app.contact.ftp.host: 0.0.0.0
 app.contact.ftp.port: 2222
 app.contact.ftp.pword: caldera
@@ -53,7 +53,7 @@ requirements:
     version: 3.7.0
 users:
   blue:
-    blue: admin
+    blue: ffx#$1
   red:
-    admin: admin
-    red: admin
+    admin: ffx#$1
+    red: ffx#$1
